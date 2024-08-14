@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project>
+        <title>Project 1</title>
+        <description>Finance tracker</description>
+        <technologies>
+            <technology>Java</technology>
+            <technology>Spring Boot</technology>
+        </technologies>
+    </project>
+    <project>
+        <title>Project 2</title>
+        <description>Calculator</description>
+        <technologies>
+            <technology>Python</technology>
+            <technology>Django</technology>
+        </technologies>
+    </project>
+</projects>
